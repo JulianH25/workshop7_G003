@@ -4,7 +4,6 @@ _app.js
 _controllers/
 _models/
 _routes/
-_docker-compose.yml
 _package.json
 _package-lock.json
 controllers/_auth_controller.js
